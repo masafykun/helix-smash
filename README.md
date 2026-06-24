@@ -60,3 +60,13 @@
 ---
 
 © 2026 masafykun (https://github.com/masafykun)
+
+---
+
+## ライセンス
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+このプロジェクトは **MIT ライセンス** のもとで公開しています。
+
+© 2026 masafykun (https://github.com/masafykun)
